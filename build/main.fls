@@ -334,6 +334,31 @@ INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\helvet.sty
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\helvet.sty
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\chemfig\chemfig.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\chemfig\chemfig.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\chemfig\chemfig.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\simplekv\simplekv.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.colorbrewer.code.tex
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarycolorbrewer.code.tex
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarycolorbrewer.code.tex
@@ -364,13 +389,23 @@ INPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\m
 INPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.bbl
 INPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.bbl
 INPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.bbl
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+OUTPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.pdf
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb7t.tfm
 INPUT .\img\cch.png
 INPUT .\img\cch.png
 INPUT .\img\cch.png
 INPUT .\img\cch.png
-OUTPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.pdf
 INPUT .\img\cch.png
 INPUT .\img\cch.png
 INPUT .\img\cch.png
@@ -414,6 +449,13 @@ INPUT .\img\UNAM.jpg
 INPUT .\img\UNAM.jpg
 INPUT .\img\UNAM.jpg
 INPUT .\img\UNAM.jpg
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb7t.vf
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\Emanuel\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -428,25 +470,24 @@ INPUT lib\Resumen.tex
 INPUT .\lib\introducción.tex
 INPUT .\lib\introducción.tex
 INPUT lib\introducción.tex
+INPUT .\lib\planteamiento_problema.tex
+INPUT .\lib\planteamiento_problema.tex
+INPUT lib\planteamiento_problema.tex
+INPUT .\lib\apoyo\productostransresv.tex
+INPUT .\lib\apoyo\productostransresv.tex
+INPUT lib\apoyo\productostransresv.tex
 INPUT .\lib\objetivos.tex
 INPUT .\lib\objetivos.tex
 INPUT lib\objetivos.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb7t.tfm
 INPUT .\lib\marco_teorico.tex
 INPUT .\lib\marco_teorico.tex
 INPUT lib\marco_teorico.tex
-INPUT .\lib\metodologia.tex
-INPUT .\lib\metodologia.tex
-INPUT lib\metodologia.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro7t.tfm
 INPUT .\img\Logo estancia.png
 INPUT .\img\Logo estancia.png
 INPUT .\img\Logo estancia.png
 INPUT .\img\Logo estancia.png
-INPUT .\img\Logo estancia.png
-INPUT .\img\Logo estancia.png
-INPUT .\img\Logo estancia.png
-INPUT .\img\logo-FESC.png
-INPUT .\img\logo-FESC.png
-INPUT .\img\logo-FESC.png
 INPUT .\img\logo-FESC.png
 INPUT .\img\logo-FESC.png
 INPUT .\img\logo-FESC.png
@@ -455,10 +496,75 @@ INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phv
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb7t.vf
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb7t.vf
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT .\lib\metodologia.tex
+INPUT .\lib\metodologia.tex
+INPUT lib\metodologia.tex
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb7t.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8c.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8c.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8c.tfm
+INPUT .\lib\resultados.tex
+INPUT .\lib\resultados.tex
+INPUT lib\resultados.tex
+INPUT .\lib\discusion.tex
+INPUT .\lib\discusion.tex
+INPUT lib\discusion.tex
+INPUT .\lib\conclusiones.tex
+INPUT .\lib\conclusiones.tex
+INPUT lib\conclusiones.tex
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvro7t.vf
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8r.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb7t.vf
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8c.vf
+INPUT .\lib\anexos.tex
+INPUT .\lib\anexos.tex
+INPUT lib\anexos.tex
+INPUT .\img\trans-resveratrol.png
+INPUT .\img\trans-resveratrol.png
+INPUT .\img\trans-resveratrol.png
+INPUT .\img\trans-resveratrol.png
+INPUT .\img\trans-resveratrol.png
+INPUT .\img\trans-resveratrol.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\Logo estancia.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
+INPUT .\img\logo-FESC.png
 INPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.aux
 INPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.run.xml
 OUTPUT g:\Mi unidad\PC\Programación\LaTeX\Estancia-de-investigacion-2025\build\main.run.xml
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
 INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvro8a.pfb
+INPUT C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvro8a.pfb

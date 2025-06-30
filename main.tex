@@ -25,7 +25,12 @@
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{fancyhdr}
 \usepackage{graphicx}
-
+\usepackage[table]{xcolor} % Agrega esto en el preámbulo
+\usepackage{array}
+\usepackage{tablefootnote}
+\usepackage{chemfig}
+\usepackage{siunitx}
+\usepackage{multicol}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Other Settings
@@ -40,6 +45,7 @@
 \fancyfoot[C]{}
 \renewcommand{\headrulewidth}{0pt} % Sin línea en el encabezado
 \renewcommand{\thepage}{\arabic{page}} % Números arábigos
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
 %%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
 \definecolor{ocre}{RGB}{243,102,25}
 \definecolor{mygray}{RGB}{243,243,244}
@@ -47,6 +53,9 @@
 \definecolor{shallowGreen}{RGB}{235,255,255}
 \definecolor{deepBlue}{RGB}{61,124,222}
 \definecolor{shallowBlue}{RGB}{235,249,255}
+% Define los colores (puedes ajustar los valores RGB para afinar el tono)
+\definecolor{unamBlue}{RGB}{0,56,168}      % Azul fuerte UNAM
+\definecolor{unamLightBlue}{RGB}{153,180,225} % Azul claro UNAM
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Define an orangebox command %%%%%%%%%%%%%%%%%%%%%%%%
@@ -70,7 +79,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title & Author %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title{Hola}
+\title{Desarrollo de tabletas de trans-resveratrol y la
+cuantificación de su principio activo a través de
+espectrofotometría UV-Vis}
 \author{García Benítez Emanuel Tonatiuh}
 \date{Colegio de Ciencias y Humanidades\\
         Universidad Nacional Autónoma de México}
@@ -82,29 +93,43 @@
 % Portada (sin numeración)
 \begin{titlepage}
     \thispagestyle{empty}
+    \vfill % Espacio flexible arriba
+
+    % Dos imágenes centradas antes del texto y minipages
     \begin{center}
-        {\LARGE \textbf{Desarrollo de tabletas de trans-resveratrol y su cuantificación}}
+        \includegraphics[height=3cm]{img/Logo estancia.png}
+        \hspace{2cm}
     \end{center}
-    \vspace{1cm}
-    \noindent
-    \begin{minipage}[c]{0.2\textwidth}
-        \centering
-        \includegraphics[width=3cm]{img/cch.png}
-    \end{minipage}
-    \hfill
-    \begin{minipage}[c]{0.55\textwidth}
-        \centering
-        {\large García Benítez Emanuel Tonatiuh}\\[0.5cm]
-        {\large Área: Ciencias Químico-Biológicas y de la Salud}\\[0.5cm]
-        {\large Colegio de Ciencias y Humanidades}\\
-        {\large Universidad Nacional Autónoma de México}\\
-        {\large FES Cuautitlán}\\
-    \end{minipage}
-    \hfill
-    \begin{minipage}[c]{0.2\textwidth}
-        \centering
-        \includegraphics[width=3.0cm]{img/UNAM.jpg}
-    \end{minipage}
+
+    \vspace{1.5cm} % Espacio entre las imágenes nuevas y el resto
+
+    \begin{center}
+        {\LARGE \textbf{Desarrollo de tabletas de trans-resveratrol y la cuantificación de su principio activo a través de espectrofotometría UV-Vis}}
+        \vspace{1cm}
+
+        \noindent
+        \begin{minipage}[c]{0.2\textwidth}
+            \centering
+            \includegraphics[width=3cm]{img/cch.png}
+        \end{minipage}
+        \hfill
+        \begin{minipage}[c]{0.55\textwidth}
+            \centering
+            {\large García Benítez Emanuel Tonatiuh}\\[0.5cm]
+            {\large Área: Ciencias Químico-Biológicas y de la Salud}\\[0.5cm]
+            {\large Colegio de Ciencias y Humanidades}\\
+            {\large Universidad Nacional Autónoma de México}\\
+            {\large FES Cuautitlán}\\
+        \end{minipage}
+        \vspace{2cm}
+        \hfill
+        \begin{minipage}[c]{0.2\textwidth}
+            \centering
+            \includegraphics[width=3.0cm]{img/UNAM.jpg}
+        \end{minipage}
+        \includegraphics[height=3cm]{img/logo-FESC.png}
+    \end{center}
+    \vfill % Espacio flexible abajo
 \end{titlepage}
 
 \setcounter{page}{1} % Inicia numeración en la siguiente página
@@ -112,8 +137,12 @@
 % El resto del documento
 \section{Resumen}
     \input{lib/Resumen.tex}
+
 \section{Introducción}
     \input{lib/introducción.tex}
+
+\section{Planteamiento del problema}
+    \input{lib/planteamiento_problema.tex}
 
 \section{Objetivos}
     \input{lib/objetivos.tex}
@@ -124,5 +153,22 @@
 \section{Metodología}
     \input{lib/metodologia.tex}
 
+\section{Resultados}
+    \input{lib/resultados.tex}
+
+\section{Discusión}
+    \input{lib/discusion.tex}
+
+\section{Conclusiones}
+    \input{lib/conclusiones.tex}
+
 \printbibliography
+
+% Hoja de anexos SIN numeración
+\clearpage
+\pagenumbering{gobble} % Detiene la numeración de página
+
+\section*{Anexos}
+\input{lib/anexos.tex}
+
 \end{document}

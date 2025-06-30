@@ -1,0 +1,62 @@
+\addcontentsline{toc}{section}{Anexos}
+
+% Numeración de anexos tipo "Anexo 1", "Anexo 2", etc.
+\newcounter{anexo}
+\renewcommand{\theanexo}{Anexo \arabic{anexo}}
+
+% Ejemplo de anexo numerado
+\refstepcounter{anexo}
+\subsection*{\theanexo. Estructura del trans-resveratrol}
+\label{anexo:estructura}
+ \begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{trans-resveratrol.png}
+    \caption{Estructura del trans-resveratrol}
+    \label{fig:mi_imagen}
+\end{figure}
+
+\refstepcounter{anexo}
+\subsection*{\theanexo. Datos físico-químicos del trans-resveratrol}
+\begin{table}[h!]
+    \centering
+    \rowcolors{2}{white}{unamLightBlue!30}
+    \begin{tabular}{|
+        >{\centering\arraybackslash\cellcolor{unamBlue!80}\color{white}}m{4cm}
+        |>{\centering\arraybackslash}m{7cm}
+        |>{\centering\arraybackslash}m{4cm}|}
+        \hline
+        \rowcolor{unamBlue!90}
+        {\cellcolor{unamBlue!90}\color{white}\textbf{Propiedad}} & {\color{white}\textbf{Valor aproximado}} & {\color{white}\textbf{Tomado de}} \\
+        \hline
+        \cellcolor{unamBlue!80}\color{white} Masa molar & \SI{228.24}{\gram\per\mole} & \\
+        \cellcolor{unamBlue!60}\color{white} Solubilidad en agua & Muy baja (\SI{0.03}{\milli\gram\per\milli\liter}) & \\
+        \cellcolor{unamBlue!80}\color{white} Solubilidad en etanol/metanol & Alta & \\
+        \cellcolor{unamBlue!60}\color{white} LogP (coeficiente de partición) & \num{3.1} (moderadamente lipofílico) & \\
+        \cellcolor{unamBlue!80}\color{white} pKa & \num{9.0} & \\
+        \cellcolor{unamBlue!60}\color{white} Estabilidad & Sensible a luz UV y al $O_2$ (puede isomerizarse a cis) & \\
+        \cellcolor{unamBlue!80}\color{white} Forma cristalina & Sólido blanco-cristalino & \\
+        \hline
+    \end{tabular}
+    \caption{Propiedades fisico-químicas relevantes del trans-resveratrol.}
+\end{table}
+\label{propiedades}
+
+\refstepcounter{anexo}
+\subsection*{\theanexo. Estándar de trans-resveratrol.}
+\label{anexo:estandar}
+
+\refstepcounter{anexo}
+\subsection*{\theanexo. Espectrofotometro UV-Vis marca.}
+\label{anexo:espectro}
+
+\refstepcounter{anexo}
+\subsection*{\theanexo. Disoluciones para la curva de calibración.}
+\label{anexo:disoluciones}
+
+\refstepcounter{anexo}
+\subsection*{\theanexo. Datos de la curva de calibración.}
+\label{anexo:stats}
+
+
+
+% ...agrega más anexos repitiendo el bloque anterior
