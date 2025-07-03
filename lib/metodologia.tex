@@ -5,38 +5,70 @@ y se encontró que la longitud de onda máxima de absorción es de \num{305} y %
 \SI{318}{\nano\meter}, lo cual corresponde con lo reportado por la literatura.
 
 Para garantizar la repetibilidad del analista, se hicieron múltiples curvas de calibración por triplicados con las siguientes diluciones para cumplir 
-los 5 puntos requeridos
+los 5 puntos requeridos (\ref{dilucionestable}):
+
+\begin{table}[h!]
+    \centering
+    \rowcolors{2}{white}{unamLightBlue!30}
+    \begin{tabular}{|>{\centering\arraybackslash\cellcolor{unamBlue!80}\color{white}}m{4cm}|>{\centering\arraybackslash}m{7cm}|}
+        \hline
+        \rowcolor{unamBlue!90}
+        {\cellcolor{unamBlue!90}\color{white}\textbf{Solución}} & {\color{white}\textbf{Concentración}}\\
+        \hline
+        \cellcolor{unamBlue!60}\color{white} stock & \SI{20}{\micro\gram\per\milli\liter} \\
+        \cellcolor{unamBlue!80}\color{white} \num{1} & \SI{4}{\micro\gram\per\milli\liter} \\
+        \cellcolor{unamBlue!60}\color{white} \num{2} & \SI{8}{\micro\gram\per\milli\liter} \\
+        \cellcolor{unamBlue!80}\color{white} \num{3} & \SI{12}{\micro\gram\per\milli\liter} \\
+        \cellcolor{unamBlue!60}\color{white} \num{4} & \SI{16}{\micro\gram\per\milli\liter} \\
+        \cellcolor{unamBlue!80}\color{white} \num{5} & \SI{20}{\micro\gram\per\milli\liter} \\
+        \hline
+    \end{tabular}
+    \caption{Concentración de cada dilución de trans-resveratrol}
+    \label{dilucionestable}
+\end{table}
 
 A través de análisis de regresión lineal se garantizó la relevancia estadística de la curva de calibración, 
-con los siguientes criterios (\ref{anexo:stats}):
+con los siguientes criterios:
 
 \begin{multicols}{2}
     \begin{itemize}
-        \item Coeficiente de variación: $\leq 3\%$
+        \item Coeficiente de variación (CV): $\leq 3\%$
         \item Intercepción con eje $Y$: $\leq 0$
         \item Valor de $R^2$: $>99\%$
         \item Coeficiente de Pearson: $>99\%$
     \end{itemize}
 \end{multicols}
 
-Se realizó una dispersión para realizar las tabletas con trans-resveratrol. La formulación con los excipientes para el
-del vehículo de la tableta fue la siguiente:
+Se realizó una dispersión para realizar las tabletas con trans-resveratrol. La formulación 
+del vehículo fue con los siguientes excipientes:
 
 \begin{multicols}{2}
     \begin{itemize}
         \item Excipiente: 1.5 g
-        \item Ex
     \end{itemize}
 \end{multicols}
 
-Una vez preparada la dispersión, se comprimieron las pastillas de trans-resveratrol
+Una vez preparada la dispersión, se comprimieron las tabletas de trans-resveratrol
 en una tableteadora monopunsante
 con un peso de \SI{300}{\milli\gram} cada una. Se realizaron 30 tabletas en total,
 las cuales se destinaron a las siguientes pruebas:
 
-\begin{itemize}
-    \item \textbf{Disolución:} Se realizó el molido de 10 tabletas  y se disolvieron en \SI{100}{\milli\liter} de metanol grado HPLC, 
-    de donde se hizo una dilución más de \SI{2}{\milli\liter} y se dimidió la absorbancia a las longitudes de onda máximas encontradas.
-    \item \textbf{Desintegración}: Se realizó una prueba de desintegración en agua destilada a temperatura ambiente.
-    \item \textbf{Dureza:} Se midió la dureza de las tabletas utilizando un durómetro.
-\end{itemize}
+Para la prueba de valoración, se trituraron de 10 tabletas, de donde se tomaron %cantidad de gramos
+del polvo y se disolvió en \SI{100}{\milli\liter} de metanol grado HPLC, 
+de donde se hizo una dilución de \SI{2}{\milli\liter} de esta disolución
+en \SI{25}{\milli\liter}. A partir de esta disolución final, se hizo la cuantificación
+del principio activo que había en las tabletas midiendo su absorbancia a \SI{305}{\nano\meter}
+en el espectrofotómetro UV-Vis
+y utilizando la curva de calibración obtenida.
+
+Se realizó una prueba de desintegración con una tableta en el desintegrador \ref{desintegrador} %ingresar marca
+en agua corriente a temperatura de \SI{33}{\degreeCelsius}.
+
+Se midió la dureza (\ref{anexo:durometro}) de las tabletas con 10 de estas, utilizando un durómetro %marca
+%¿Es aceptable u homogenea?
+
+Se utilizó un fragilizador (\ref{anexo:friabilidad}) %marca
+para medir la friabilidad de las tabletas, en donde se utilizaron 6 de estas, obteniendo un porcentaje de friabilidad del %insertar porcentaje
+de las tabletas.
+
+

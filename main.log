@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.28)  2 JUL 2025 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.28)  3 JUL 2025 00:30
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -44,22 +44,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen155
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
-) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -79,10 +64,10 @@ Package: amstext 2024/11/17 v2.01 AMS text
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen159
+\ex@=\dimen157
 )) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen160
+\pmbraise@=\dimen158
 ) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
@@ -103,7 +88,7 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen161
+\big@size=\dimen159
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count291
@@ -121,12 +106,12 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \column@=\count296
 \maxfields@=\count297
 \andhelp@=\toks22
-\eqnshift@=\dimen162
-\alignsep@=\dimen163
-\tagshift@=\dimen164
-\tagwidth@=\dimen165
-\totwidth@=\dimen166
-\lineht@=\dimen167
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
 \@envbody=\toks23
 \multlinegap=\skip52
 \multlinetaggap=\skip53
@@ -154,8 +139,8 @@ Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count298
 \calc@Bcount=\count299
-\calc@Adimen=\dimen168
-\calc@Bdimen=\dimen169
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
 \calc@Askip=\skip57
 \calc@Bskip=\skip58
 LaTeX Info: Redefining \setlength on input line 86.
@@ -164,30 +149,30 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Cskip=\skip59
 )
 \g_MT_multlinerow_int=\count301
-\l_MT_multwidth_dim=\dimen170
+\l_MT_multwidth_dim=\dimen168
 \origjot=\skip60
-\l_MT_shortvdotswithinadjustabove_dim=\dimen171
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen172
-\l_MT_above_intertext_sep=\dimen173
-\l_MT_below_intertext_sep=\dimen174
-\l_MT_above_shortintertext_sep=\dimen175
-\l_MT_below_shortintertext_sep=\dimen176
+\l_MT_shortvdotswithinadjustabove_dim=\dimen169
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen170
+\l_MT_above_intertext_sep=\dimen171
+\l_MT_below_intertext_sep=\dimen172
+\l_MT_above_shortintertext_sep=\dimen173
+\l_MT_below_shortintertext_sep=\dimen174
 \xmathstrut@box=\box55
-\xmathstrut@dim=\dimen177
+\xmathstrut@dim=\dimen175
 )
 \l_EQ_equationtype_int=\count302
 \l_EQ_alignmentmode_int=\count303
-\l_EQ_totalwidth_dim=\dimen178
-\l_EQ_displaywidth_dim=\dimen179
-\l_EQ_temp_linewidth_dim=\dimen180
-\l_EQ_linewidth_dim=\dimen181
-\EmphEqdelimitershortfall=\dimen182
+\l_EQ_totalwidth_dim=\dimen176
+\l_EQ_displaywidth_dim=\dimen177
+\l_EQ_temp_linewidth_dim=\dimen178
+\l_EQ_linewidth_dim=\dimen179
+\EmphEqdelimitershortfall=\dimen180
 \EmphEqdelimiterfactor=\count304
-\g_EQ_toptag_height_dim=\dimen183
-\g_EQ_bottomtag_depth_dim=\dimen184
-\g_EQ_toprow_height_dim=\dimen185
-\g_EQ_bottomrow_depth_dim=\dimen186
-\g_EQ_widesttag_dim=\dimen187
+\g_EQ_toptag_height_dim=\dimen181
+\g_EQ_bottomtag_depth_dim=\dimen182
+\g_EQ_toprow_height_dim=\dimen183
+\g_EQ_bottomrow_depth_dim=\dimen184
+\g_EQ_widesttag_dim=\dimen185
 \EQ_mathdisplay_box=\box56
 \EQ_tag_box=\box57
 \g_EQ_temprow_int=\count305
@@ -241,7 +226,9 @@ Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 \mdf@templength=\skip61
 \c@mdf@globalstyle@cnt=\count309
 \mdf@skipabove@length=\skip62
@@ -331,23 +318,23 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen188
-\lightrulewidth=\dimen189
-\cmidrulewidth=\dimen190
-\belowrulesep=\dimen191
-\belowbottomsep=\dimen192
-\aboverulesep=\dimen193
-\abovetopsep=\dimen194
-\cmidrulesep=\dimen195
-\cmidrulekern=\dimen196
-\defaultaddspace=\dimen197
+\heavyrulewidth=\dimen186
+\lightrulewidth=\dimen187
+\cmidrulewidth=\dimen188
+\belowrulesep=\dimen189
+\belowbottomsep=\dimen190
+\aboverulesep=\dimen191
+\abovetopsep=\dimen192
+\cmidrulesep=\dimen193
+\cmidrulekern=\dimen194
+\defaultaddspace=\dimen195
 \@cmidla=\count315
 \@cmidlb=\count316
-\@aboverulesep=\dimen198
-\@belowrulesep=\dimen199
+\@aboverulesep=\dimen196
+\@belowrulesep=\dimen197
 \@thisruleclass=\count317
 \@lastruleclass=\count318
-\@thisrulewidth=\dimen256
+\@thisrulewidth=\dimen198
 ) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
@@ -357,12 +344,25 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count321
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/psfrag\psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
 \pfg@pcount=\count322
 \pfg@scount=\count323
 \pfg@temp=\write3
 ) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen199
+\Gin@req@width=\dimen256
+) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks31
 \pgfutil@tempdima=\dimen257
 \pgfutil@tempdimb=\dimen258
@@ -563,7 +563,8 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfplots@tmpa=\dimen307
 \c@pgfplots@coordindex=\count345
 \c@pgfplots@scanlineindex=\count346
- (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+
+(C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
 \t@pgf@toka=\toks46
 \t@pgf@tokb=\toks47
@@ -641,8 +642,8 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 21.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 21.
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 19.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 19.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
@@ -1088,7 +1089,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 90.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 88.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 ) (main.aux
@@ -1099,20 +1100,20 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1148,18 +1149,19 @@ LaTeX Font Info:    ... okay on input line 90.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\Hy@linkcounter=\count532
 (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count532
+\scratchcounter=\count533
 \scratchdimen=\dimen346
 \scratchbox=\box135
-\nofMPsegments=\count533
-\nofMParguments=\count534
+\nofMPsegments=\count534
+\nofMParguments=\count535
 \everyMPshowfont=\toks56
-\MPscratchCnt=\count535
+\MPscratchCnt=\count536
 \MPscratchDim=\dimen347
-\MPnumerator=\count536
-\makeMPintoPDFobject=\count537
+\MPnumerator=\count537
+\makeMPintoPDFobject=\count538
 \everyMPtoPDFconversion=\toks57
 ) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1167,12 +1169,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\Hy@linkcounter=\count538
-
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\spanish-apa.lbx
@@ -1193,42 +1193,41 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 90.
-Package biblatex Info: Reference segment=0 on input line 90.
-(C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 88.
+Package biblatex Info: Reference segment=0 on input line 88.
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 90.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 88.
 <img/Logo estancia.png, id=4, 796.6563pt x 195.8517pt>
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 100.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 98.
 (pdftex.def)             Requested size: 347.21127pt x 85.35826pt.
 <img/cch.png, id=6, 72.27pt x 73.9563pt>
 File: img/cch.png Graphic file (type png)
 <use img/cch.png>
-Package pdftex.def Info: img/cch.png  used on input line 113.
+Package pdftex.def Info: img/cch.png  used on input line 111.
 (pdftex.def)             Requested size: 85.35826pt x 87.35454pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 114.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 112.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 114.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 112.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <img/UNAM.jpg, id=7, 1951.29pt x 1955.305pt>
 File: img/UNAM.jpg Graphic file (type jpg)
 <use img/UNAM.jpg>
-Package pdftex.def Info: img/UNAM.jpg  used on input line 128.
+Package pdftex.def Info: img/UNAM.jpg  used on input line 126.
 (pdftex.def)             Requested size: 85.35826pt x 85.50858pt.
 <img/logo-FESC.png, id=8, 462.528pt x 570.02963pt>
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 130.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 128.
 (pdftex.def)             Requested size: 69.25623pt x 85.35826pt.
 
 
@@ -1237,17 +1236,14 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {C:/Users/Emanuel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Logo estancia.png> <./img/cch.png> <./img/UNAM.jpg> <./img/logo-FESC.png>] (lib/Resumen.tex) (lib/introducción.tex) (lib/planteamiento_problema.tex (lib/apoyo/productostransresv.tex)) (lib/objetivos.tex) (lib/marco_teorico.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 4.
-)
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 152.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 6.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 152.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 6.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1256,31 +1252,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
 
-[1] (lib/metodologia.tex
-
-
-
-
-
-
-
-
-
-
-
-) (lib/resultados.tex) (lib/discusion.tex) (lib/conclusiones.tex)
-
-LaTeX Warning: Empty bibliography on input line 165.
-
-
+[1]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
+) (lib/metodologia.tex
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 18.
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 168.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 34.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 168.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 34.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1291,13 +1278,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 
+
+
+
+
+
+
+
+
+
+
+
+LaTeX Warning: Reference `desintegrador' on page 3 undefined on input line 64.
+
+) (lib/resultados.tex
+
+
+
+
+
+) (lib/discusion.tex
+
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 168.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 6.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 168.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 6.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1306,22 +1314,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
 
-[3] (lib/anexos.tex
-\c@anexo=\count539
-<img/trans-resveratrol.png, id=32, 746.03719pt x 427.5975pt>
-File: img/trans-resveratrol.png Graphic file (type png)
-<use img/trans-resveratrol.png>
-Package pdftex.def Info: img/trans-resveratrol.png  used on input line 13.
-(pdftex.def)             Requested size: 234.8775pt x 134.62215pt.
-)
+[3]) (lib/conclusiones.tex)
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 174.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 163.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 174.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 163.
+(pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 38.22325pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.22325pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
+
+[4]
+
+File: img/Logo estancia.png Graphic file (type png)
+<use img/Logo estancia.png>
+Package pdftex.def Info: img/Logo estancia.png  used on input line 169.
+(pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
+File: img/logo-FESC.png Graphic file (type png)
+<use img/logo-FESC.png>
+Package pdftex.def Info: img/logo-FESC.png  used on input line 169.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1332,7 +1350,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
- <./img/trans-resveratrol.png>] (main.aux
+] (lib/anexos.tex
+\c@anexo=\count539
+<img/trans-resveratrol.png, id=39, 746.03719pt x 427.5975pt>
+File: img/trans-resveratrol.png Graphic file (type png)
+<use img/trans-resveratrol.png>
+Package pdftex.def Info: img/trans-resveratrol.png  used on input line 13.
+(pdftex.def)             Requested size: 234.8775pt x 134.62215pt.
+)
+
+File: img/Logo estancia.png Graphic file (type png)
+<use img/Logo estancia.png>
+Package pdftex.def Info: img/Logo estancia.png  used on input line 175.
+(pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
+File: img/logo-FESC.png Graphic file (type png)
+<use img/logo-FESC.png>
+Package pdftex.def Info: img/logo-FESC.png  used on input line 175.
+(pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 38.22325pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.22325pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
+
+[1
+
+ <./img/trans-resveratrol.png>]
+
+File: img/Logo estancia.png Graphic file (type png)
+<use img/Logo estancia.png>
+Package pdftex.def Info: img/Logo estancia.png  used on input line 175.
+(pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
+File: img/logo-FESC.png Graphic file (type png)
+<use img/logo-FESC.png>
+Package pdftex.def Info: img/logo-FESC.png  used on input line 175.
+(pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 38.22325pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.22325pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
+
+[2] (main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1345,27 +1406,22 @@ L3 programming layer <2025-06-09>
 
 LaTeX Warning: There were undefined references.
 
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44203 strings out of 468221
- 1086111 string characters out of 5431923
- 2300557 words of memory out of 5000000
- 72049 multiletter control sequences out of 15000+600000
- 647393 words of font info for 83 fonts, out of 8000000 for 9000
+ 44522 strings out of 468221
+ 1092325 string characters out of 5431923
+ 2303947 words of memory out of 5000000
+ 72347 multiletter control sequences out of 15000+600000
+ 657639 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,105p,784b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,105p,1744b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (5 pages, 1918180 bytes).
+Output written on main.pdf (8 pages, 1930853 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

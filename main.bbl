@@ -1,0 +1,213 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{polifenolantioxidante}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=cce0d0fe46e5adc02aa912966c905bee}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Yuxi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=426b7025f67ef8cfcc9a4371cbdd5aff}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Ningxuan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b49ff0e70f434fe982af2688e449d5a8}{%
+           family={Zang},
+           familyi={Z\bibinitperiod},
+           given={Zhihuan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcfc7336fd8cc847345e1c44ea92a833}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Xianjun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f65c83b890486e05d6fb24cca8e5b72}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be4e7a4189f8bcbc5d0535f81778792a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shufang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b5d15313df8b282fb3bbf4aef03c335}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yiyun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17e6b85887eb4ab6c62b73940050d80b}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Zhufeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd1e4e648b0074e1d1f4427d70297b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c62947a25929861d0469b926ae296799}
+      \strng{fullhash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{fullhashraw}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{bibnamehash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{authorbibnamehash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{authornamehash}{c62947a25929861d0469b926ae296799}
+      \strng{authorfullhash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{authorfullhashraw}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Polyphenols are widely recognized as the effective antioxidants, which are divided into flavonoids, phenolic acids, stilbenes, lignans, tannins and so on. They could regulate internal functions and protect the body from diseases related to oxidative damage. Due to the fact that their antioxidant capacity is influenced by the structure, stability and bioavailability, the detection of their bioactivity should be considered comprehensively. Currently, the methods for measuring the antioxidant capacity of phenolic compounds are divided into chemical, cell-based and in vivo assays. The chemical assays include 2,2-diphenyl-1-picrylhydrazyl (DPPH), 2,2′-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS), ferric reducing /antioxidant power (FRAP), oxygen radical absorbance capacity (ORAC), peroxyl radical scavenging capacity (PSC), which are rapid identification method, but their reaction mechanism has a great gap with the internal body response. The cell-based assays are more consistent with biological reaction, but still do not take the bioavailability into consideration. The in vivo assays, which commonly utilized Caenorhabditis elegans or rats as models, are more representative, but these methods are more complex and spend longer. This review summarizes the antioxidant evaluation methods of phenolic compounds and discusses their advantages and limitations comparatively, which could help discriminate and select the appropriate assay in the actual operation, and facilitate the development of comprehensive approaches as well.}
+      \field{issn}{2772-5669}
+      \field{journaltitle}{Journal of Future Foods}
+      \field{note}{Bioaccessibility of food-derived bioactive ingredients and their health-promoting mechanisms}
+      \field{number}{3}
+      \field{title}{Classification and antioxidant assays of polyphenols: a review}
+      \field{volume}{4}
+      \field{year}{2024}
+      \field{pages}{193\bibrangedash 204}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfutfo.2023.07.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2772566923000605
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2772566923000605
+      \endverb
+      \keyw{Polyphenols,Classification,Antioxidant assays,Chemical assays,Cell-based assays,assays}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{polifenolantioxidante}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=cce0d0fe46e5adc02aa912966c905bee}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Yuxi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=426b7025f67ef8cfcc9a4371cbdd5aff}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Ningxuan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b49ff0e70f434fe982af2688e449d5a8}{%
+           family={Zang},
+           familyi={Z\bibinitperiod},
+           given={Zhihuan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcfc7336fd8cc847345e1c44ea92a833}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Xianjun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f65c83b890486e05d6fb24cca8e5b72}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be4e7a4189f8bcbc5d0535f81778792a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shufang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b5d15313df8b282fb3bbf4aef03c335}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yiyun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17e6b85887eb4ab6c62b73940050d80b}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Zhufeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd1e4e648b0074e1d1f4427d70297b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c62947a25929861d0469b926ae296799}
+      \strng{fullhash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{fullhashraw}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{bibnamehash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{authorbibnamehash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{authornamehash}{c62947a25929861d0469b926ae296799}
+      \strng{authorfullhash}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \strng{authorfullhashraw}{94c4619167c17740fa6ffdcc3f46c5b9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Polyphenols are widely recognized as the effective antioxidants, which are divided into flavonoids, phenolic acids, stilbenes, lignans, tannins and so on. They could regulate internal functions and protect the body from diseases related to oxidative damage. Due to the fact that their antioxidant capacity is influenced by the structure, stability and bioavailability, the detection of their bioactivity should be considered comprehensively. Currently, the methods for measuring the antioxidant capacity of phenolic compounds are divided into chemical, cell-based and in vivo assays. The chemical assays include 2,2-diphenyl-1-picrylhydrazyl (DPPH), 2,2′-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS), ferric reducing /antioxidant power (FRAP), oxygen radical absorbance capacity (ORAC), peroxyl radical scavenging capacity (PSC), which are rapid identification method, but their reaction mechanism has a great gap with the internal body response. The cell-based assays are more consistent with biological reaction, but still do not take the bioavailability into consideration. The in vivo assays, which commonly utilized Caenorhabditis elegans or rats as models, are more representative, but these methods are more complex and spend longer. This review summarizes the antioxidant evaluation methods of phenolic compounds and discusses their advantages and limitations comparatively, which could help discriminate and select the appropriate assay in the actual operation, and facilitate the development of comprehensive approaches as well.}
+      \field{issn}{2772-5669}
+      \field{journaltitle}{Journal of Future Foods}
+      \field{note}{Bioaccessibility of food-derived bioactive ingredients and their health-promoting mechanisms}
+      \field{number}{3}
+      \field{title}{Classification and antioxidant assays of polyphenols: a review}
+      \field{volume}{4}
+      \field{year}{2024}
+      \field{pages}{193\bibrangedash 204}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfutfo.2023.07.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2772566923000605
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2772566923000605
+      \endverb
+      \keyw{Polyphenols,Classification,Antioxidant assays,Chemical assays,Cell-based assays,assays}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
