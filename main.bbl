@@ -19,6 +19,89 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{actividadbiologicaresveratrol}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=794488943fa3692a496e9d0a6a1ac23b}{%
+           family={Bejenaru},
+           familyi={B\bibinitperiod},
+           given={Ludovic\bibnamedelima Everard},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ae23554fbae48b9acf581e24ae60864}{%
+           family={Biţă},
+           familyi={B\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d084f40f0513b90a31e1d8dde92b1437}{%
+           family={Belu},
+           familyi={B\bibinitperiod},
+           given={Ionela},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3732b58b62e2cb74b1f447b4e4fc4d1}{%
+           family={Segneanu},
+           familyi={S\bibinitperiod},
+           given={Adina-Elena},
+           giveni={A\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c50639c14b3f27ff9cc90998d5273231}{%
+           family={Radu},
+           familyi={R\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9626c6e3314f17685618fc328267f31}{%
+           family={Dumitru},
+           familyi={D\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a1b30fbff40957d4aef4d7f912c9607}{%
+           family={Ciocı̂lteu},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelima Viorica},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0490c8e43892edd96830ce80db94cf0}{%
+           family={Mogoşanu},
+           familyi={M\bibinitperiod},
+           given={George\bibnamedelima Dan},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73d9d7d5ed8e078a26ead1df34367701}{%
+           family={Bejenaru},
+           familyi={B\bibinitperiod},
+           given={Cornelia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{2cc7fe230f859ce3ac97fa245a12fa03}
+      \strng{fullhash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{fullhashraw}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{bibnamehash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{authorbibnamehash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{authornamehash}{2cc7fe230f859ce3ac97fa245a12fa03}
+      \strng{authorfullhash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{authorfullhashraw}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{11}
+      \field{title}{Resveratrol: A review on the biological activity and applications}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{4534}
+      \range{pages}{1}
+    \endentry
     \entry{polifenolantioxidante}{article}{}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=cce0d0fe46e5adc02aa912966c905bee}{%
@@ -112,8 +195,127 @@
       \endverb
       \keyw{Polyphenols,Classification,Antioxidant assays,Chemical assays,Cell-based assays,assays}
     \endentry
+    \entry{trans-resveratrol}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9414b3e0334c49e952858ace4a02eba}{%
+           family={Program},
+           familyi={P\bibinitperiod},
+           given={National\bibnamedelima Toxicology},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {U.S. Department of Health}%
+        {Human Services}%
+      }
+      \list{location}{1}{%
+        {Research Triangle Park, NC}%
+      }
+      \strng{namehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{fullhash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{fullhashraw}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{bibnamehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authorbibnamehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authornamehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authorfullhash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authorfullhashraw}{d9414b3e0334c49e952858ace4a02eba}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{number}{NTP TOX 102}
+      \field{title}{TRaNS - ReSveRaTRol (caSRN 501-36-0) administered by gavage for two weeks or three months to F344/NTac rats, Wistar Han [Crl:WI(Han)] rats, and B6C3F1/N mice}
+      \field{year}{2021}
+    \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{actividadbiologicaresveratrol}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=794488943fa3692a496e9d0a6a1ac23b}{%
+           family={Bejenaru},
+           familyi={B\bibinitperiod},
+           given={Ludovic\bibnamedelima Everard},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ae23554fbae48b9acf581e24ae60864}{%
+           family={Biţă},
+           familyi={B\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d084f40f0513b90a31e1d8dde92b1437}{%
+           family={Belu},
+           familyi={B\bibinitperiod},
+           given={Ionela},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3732b58b62e2cb74b1f447b4e4fc4d1}{%
+           family={Segneanu},
+           familyi={S\bibinitperiod},
+           given={Adina-Elena},
+           giveni={A\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c50639c14b3f27ff9cc90998d5273231}{%
+           family={Radu},
+           familyi={R\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9626c6e3314f17685618fc328267f31}{%
+           family={Dumitru},
+           familyi={D\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a1b30fbff40957d4aef4d7f912c9607}{%
+           family={Ciocı̂lteu},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelima Viorica},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0490c8e43892edd96830ce80db94cf0}{%
+           family={Mogoşanu},
+           familyi={M\bibinitperiod},
+           given={George\bibnamedelima Dan},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73d9d7d5ed8e078a26ead1df34367701}{%
+           family={Bejenaru},
+           familyi={B\bibinitperiod},
+           given={Cornelia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{2cc7fe230f859ce3ac97fa245a12fa03}
+      \strng{fullhash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{fullhashraw}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{bibnamehash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{authorbibnamehash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{authornamehash}{2cc7fe230f859ce3ac97fa245a12fa03}
+      \strng{authorfullhash}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \strng{authorfullhashraw}{b4dc04ba18c44e5efa2dc98c186d8fdd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{11}
+      \field{title}{Resveratrol: A review on the biological activity and applications}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{4534}
+      \range{pages}{1}
+    \endentry
     \entry{polifenolantioxidante}{article}{}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=cce0d0fe46e5adc02aa912966c905bee}{%
@@ -206,6 +408,42 @@
       \verb https://www.sciencedirect.com/science/article/pii/S2772566923000605
       \endverb
       \keyw{Polyphenols,Classification,Antioxidant assays,Chemical assays,Cell-based assays,assays}
+    \endentry
+    \entry{trans-resveratrol}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9414b3e0334c49e952858ace4a02eba}{%
+           family={Program},
+           familyi={P\bibinitperiod},
+           given={National\bibnamedelima Toxicology},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {U.S. Department of Health}%
+        {Human Services}%
+      }
+      \list{location}{1}{%
+        {Research Triangle Park, NC}%
+      }
+      \strng{namehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{fullhash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{fullhashraw}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{bibnamehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authorbibnamehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authornamehash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authorfullhash}{d9414b3e0334c49e952858ace4a02eba}
+      \strng{authorfullhashraw}{d9414b3e0334c49e952858ace4a02eba}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{number}{NTP TOX 102}
+      \field{title}{TRaNS - ReSveRaTRol (caSRN 501-36-0) administered by gavage for two weeks or three months to F344/NTac rats, Wistar Han [Crl:WI(Han)] rats, and B6C3F1/N mice}
+      \field{year}{2021}
     \endentry
   \enddatalist
 \endrefsection

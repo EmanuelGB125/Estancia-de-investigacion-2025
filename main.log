@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.28)  3 JUL 2025 00:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.28)  4 JUL 2025 03:52
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1080,16 +1080,28 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \colbreak@box=\box134
 \mc@col@check@num=\count527
 \g__mc_curr_col_int=\count528
+) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/chemobabel\chemobabel.sty
+Package: chemobabel 2022/10/22 v0.9l Chemical structures with Open Babel
+ (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks56
+\verbatim@line=\toks57
+\verbatim@in@stream=\read5
 )
-\c@theorem=\count529
-\c@definition=\count530
-\c@problem=\count531
+runsystem(mkdir chemobabelimgdir)...executed.
+
+\c@smilesob@belCounter=\count529
+\c@chemob@belCounter=\count530
+)
+\c@theorem=\count531
+\c@definition=\count532
+\c@problem=\count533
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 88.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 89.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 ) (main.aux
@@ -1100,20 +1112,20 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1149,20 +1161,20 @@ LaTeX Font Info:    ... okay on input line 88.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\Hy@linkcounter=\count532
+\Hy@linkcounter=\count534
 (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count533
+\scratchcounter=\count535
 \scratchdimen=\dimen346
 \scratchbox=\box135
-\nofMPsegments=\count534
-\nofMParguments=\count535
-\everyMPshowfont=\toks56
-\MPscratchCnt=\count536
+\nofMPsegments=\count536
+\nofMParguments=\count537
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count538
 \MPscratchDim=\dimen347
-\MPnumerator=\count537
-\makeMPintoPDFobject=\count538
-\everyMPtoPDFconversion=\toks57
+\MPnumerator=\count539
+\makeMPintoPDFobject=\count540
+\everyMPtoPDFconversion=\toks59
 ) (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1171,8 +1183,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\spanish-apa.lbx
@@ -1195,39 +1207,39 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 88.
-Package biblatex Info: Reference segment=0 on input line 88.
+Package biblatex Info: Reference section=0 on input line 89.
+Package biblatex Info: Reference segment=0 on input line 89.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 88.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 89.
 <img/Logo estancia.png, id=4, 796.6563pt x 195.8517pt>
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 98.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 99.
 (pdftex.def)             Requested size: 347.21127pt x 85.35826pt.
 <img/cch.png, id=6, 72.27pt x 73.9563pt>
 File: img/cch.png Graphic file (type png)
 <use img/cch.png>
-Package pdftex.def Info: img/cch.png  used on input line 111.
+Package pdftex.def Info: img/cch.png  used on input line 112.
 (pdftex.def)             Requested size: 85.35826pt x 87.35454pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 112.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 113.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 112.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 113.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <img/UNAM.jpg, id=7, 1951.29pt x 1955.305pt>
 File: img/UNAM.jpg Graphic file (type jpg)
 <use img/UNAM.jpg>
-Package pdftex.def Info: img/UNAM.jpg  used on input line 126.
+Package pdftex.def Info: img/UNAM.jpg  used on input line 127.
 (pdftex.def)             Requested size: 85.35826pt x 85.50858pt.
 <img/logo-FESC.png, id=8, 462.528pt x 570.02963pt>
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 128.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 129.
 (pdftex.def)             Requested size: 69.25623pt x 85.35826pt.
 
 
@@ -1235,15 +1247,15 @@ Package pdftex.def Info: img/logo-FESC.png  used on input line 128.
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/Emanuel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Logo estancia.png> <./img/cch.png> <./img/UNAM.jpg> <./img/logo-FESC.png>] (lib/Resumen.tex) (lib/introducción.tex) (lib/planteamiento_problema.tex (lib/apoyo/productostransresv.tex)) (lib/objetivos.tex) (lib/marco_teorico.tex
+{C:/Users/Emanuel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Logo estancia.png> <./img/cch.png> <./img/UNAM.jpg> <./img/logo-FESC.png>] (lib/Resumen.tex) (lib/introducción.tex) (lib/planteamiento_problema.tex (lib/apoyo/productostransresv.tex)) (lib/objetivos.tex
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 6.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 13.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 6.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 13.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1252,22 +1264,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
 
-[1]
+[1]) (lib/marco_teorico.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 22.
 ) (lib/metodologia.tex
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 18.
  (C:\Users\Emanuel\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+
+
+
+
+
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 34.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 46.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 34.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 46.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1277,12 +1299,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-26.22325pt}.
 
 [2]
-
-
-
-
-
-
 
 
 
@@ -1301,11 +1317,11 @@ LaTeX Warning: Reference `desintegrador' on page 3 undefined on input line 64.
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 6.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 4.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 6.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 4.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1318,11 +1334,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 163.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 164.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 163.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 164.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1333,13 +1349,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
+! LaTeX Error: Unicode character ̂ (U+0302)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 
+      
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (8.0191pt too wide) in paragraph at lines 168--168
+[][]\OT1/phv/m/n/10.95 Bejenaru, L. E., Bi[][]a, A., Be-lu, I., Seg-nea-nu, A.[]E., Ra-du, A., Du-mi-tru, A., Cioc^^Plteu, M. V., Mogo[]anu,
+ []
+
+
+
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 169.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 170.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 169.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 170.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1351,21 +1386,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 ] (lib/anexos.tex
-\c@anexo=\count539
+\c@anexo=\count541
 <img/trans-resveratrol.png, id=39, 746.03719pt x 427.5975pt>
 File: img/trans-resveratrol.png Graphic file (type png)
 <use img/trans-resveratrol.png>
 Package pdftex.def Info: img/trans-resveratrol.png  used on input line 13.
 (pdftex.def)             Requested size: 234.8775pt x 134.62215pt.
+runsystem(obabel -:"Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1" -O chemobabelimgdir/smilesobabelimg1.svg  2>chemobabelimgdir/smilesobabelimg1.log && inkscape chemobabelimgdir/smilesobabelimg1.svg --export-type=pdf 2>>chemobabelimgdir/smilesobabelimg1.log || rm -f chemobabelimgdir/smilesobabelimg1.pdf)...executed.
+
+runsystem(pdfcrop chemobabelimgdir/smilesobabelimg1.pdf)...executed.
+
+
+
+Package chemobabel Warning: Processing of SMILES string failed.
+
+File: "chemobabelimgdir/smilesobabelimg1.log"  (verbatim)
 )
+
+Package chemobabel Warning: Some processing failed.
+(chemobabel)                Please rerun.
+
+
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 175.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 176.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 175.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 176.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1380,11 +1429,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: img/Logo estancia.png Graphic file (type png)
 <use img/Logo estancia.png>
-Package pdftex.def Info: img/Logo estancia.png  used on input line 175.
+Package pdftex.def Info: img/Logo estancia.png  used on input line 176.
 (pdftex.def)             Requested size: 138.88208pt x 34.14322pt.
 File: img/logo-FESC.png Graphic file (type png)
 <use img/logo-FESC.png>
-Package pdftex.def Info: img/logo-FESC.png  used on input line 175.
+Package pdftex.def Info: img/logo-FESC.png  used on input line 176.
 (pdftex.def)             Requested size: 27.70107pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1411,17 +1460,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44522 strings out of 468221
- 1092325 string characters out of 5431923
- 2303947 words of memory out of 5000000
- 72347 multiletter control sequences out of 15000+600000
- 657639 words of font info for 107 fonts, out of 8000000 for 9000
+ 44682 strings out of 468221
+ 1096081 string characters out of 5431923
+ 2307903 words of memory out of 5000000
+ 72498 multiletter control sequences out of 15000+600000
+ 657807 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,16n,105p,1744b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (8 pages, 1930853 bytes).
+<C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Emanuel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (8 pages, 1949724 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
